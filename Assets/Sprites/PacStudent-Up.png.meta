@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0b1f1de84dd06b54eba43897a75ecbd7
+guid: e14edea23cd08c04f9955c3f60cb729f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,10 +106,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacStudent-Death_0
+      name: PacStudent-Up_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 12
         y: 0
         width: 116
         height: 116
@@ -120,17 +120,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c75ac6966824c042b244a65198759bc
-      internalID: 2101814736
+      spriteID: 0689e60d48863d240aea49411c297fb1
+      internalID: 940504805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent-Death_1
+      name: PacStudent-Up_1
       rect:
         serializedVersion: 2
-        x: 128
+        x: 140
         y: 0
         width: 116
         height: 116
@@ -141,17 +141,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d49757b1b42edf54aad160c47ed11a45
-      internalID: -1210585545
+      spriteID: a8c931c5112730c4895a6421f5a29e5f
+      internalID: 903860476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent-Death_2
+      name: PacStudent-Up_2
       rect:
         serializedVersion: 2
-        x: 256
+        x: 268
         y: 0
         width: 116
         height: 116
@@ -162,17 +162,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 809c5b1d0793fa741aa9e0894ae3a920
-      internalID: -1982572831
+      spriteID: 08f5ac80e6f100a44b7e1b7b6ef015a7
+      internalID: -908100388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent-Death_3
+      name: PacStudent-Up_3
       rect:
         serializedVersion: 2
-        x: 384
+        x: 396
         y: 0
         width: 116
         height: 116
@@ -183,50 +183,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 015c679a99830634d9516691d5e41874
-      internalID: -160408107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent-Death_4
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 116
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d58fe1003f06b84eba9c8cee605a46a
-      internalID: -1333043249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent-Death_5
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 116
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4bdcc6a52361d2848888a1a35a3d23fa
-      internalID: -1803828421
+      spriteID: c838f3851fc85e045b586e316d7b6ce6
+      internalID: 1914610906
       vertices: []
       indices: 
       edges: []
@@ -242,12 +200,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudent-Death_5: -1803828421
-      PacStudent-Death_2: -1982572831
-      PacStudent-Death_1: -1210585545
-      PacStudent-Death_3: -160408107
-      PacStudent-Death_4: -1333043249
-      PacStudent-Death_0: 2101814736
+      PacStudent-Up_0: 940504805
+      PacStudent-Up_1: 903860476
+      PacStudent-Up_3: 1914610906
+      PacStudent-Up_2: -908100388
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
