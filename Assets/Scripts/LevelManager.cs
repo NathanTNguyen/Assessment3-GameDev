@@ -20,4 +20,8 @@ public class LevelManager : MonoBehaviour
     public void handleScene() {
         SceneManager.LoadScene("scene");
     }
+    
+    public void handleReturnToMenu() {
+        SceneManager.LoadScene("StartScene");
+    }
 }
